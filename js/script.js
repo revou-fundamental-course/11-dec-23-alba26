@@ -24,3 +24,4 @@ function changeImage() {
 }
 
 setInterval(changeImage, 2000)
+// Testing git branch
